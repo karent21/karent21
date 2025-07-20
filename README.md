@@ -7,7 +7,7 @@
 ## My website on Emma Watson! : https://replit.com/@low-lo/personal-website-on-Emma-Watson<img width="1823" height="896" alt="em" src="https://github.com/user-attachments/assets/113c5aac-ec04-4e00-9a77-bb90c4327525" />
 
 
-## Instagram: @karenhollylol
+## Instagram: @karenhollylol https://www.instagram.com/karenhollylol/
 <!--
 **karent21/karent21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 HELLO WORLD
