@@ -1,9 +1,9 @@
-# HELLOOO I'M KARENN👋
+# HELLOOO I'M KARENN👋 <img width="791" height="758" alt="karen" src="https://github.com/user-attachments/assets/27ebf904-ff8f-4e41-97a5-71fb56dcb707" />
 ## test
 ![download](https://github.com/user-attachments/assets/78774e98-34d8-4556-8c3d-c6dab9d4b027)
 ## One Paragraph Career Description
-## Check out my logo design!:https://www.figma.com/design/C9YWezQBpJIfYhAlRpuLLj/Logo?node-id=0-1&p=f&t=Sa9ecZgiy1BR0hQs-0 
-## profile image <img width="791" height="758" alt="karen" src="https://github.com/user-attachments/assets/27ebf904-ff8f-4e41-97a5-71fb56dcb707" />
+## Check out my logo design!: https://www.figma.com/design/C9YWezQBpJIfYhAlRpuLLj/Logo?node-id=0-1&p=f&t=Sa9ecZgiy1BR0hQs-0 <img width="969" height="664" alt="logo" src="https://github.com/user-attachments/assets/84b83577-e18e-451e-a571-dd97f1d943a2" />
+
 
 ## Instagram: @karenhollylol
 <!--
