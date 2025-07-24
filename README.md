@@ -1,4 +1,4 @@
-# HELLOOO I'M KARENN👋 <img width="791" height="758" alt="karen" src="https://github.com/user-attachments/assets/27ebf904-ff8f-4e41-97a5-71fb56dcb707" />
+# HELLOOO I'M KARENN👋 <img width="791" height="758" alt="karen" src="https://github.com/user-attachments/assets/27ebf904-ff8f-4e41-97a5-71fb56dcb707" width=200px />
 ## test
 ![download](https://github.com/user-attachments/assets/78774e98-34d8-4556-8c3d-c6dab9d4b027)
 ## One Paragraph Career Description
